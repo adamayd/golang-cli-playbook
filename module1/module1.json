@@ -16,7 +16,7 @@
 	"GOENV": "/home/aayd/.config/go/env",
 	"GOEXE": "",
 	"GOFLAGS": "",
-	"GOGCCFLAGS": "-fPIC -m64 -pthread -fmessage-length=0 -fdebug-prefix-map=/tmp/go-build207058776=/tmp/go-build -gno-record-gcc-switches",
+	"GOGCCFLAGS": "-fPIC -m64 -pthread -fmessage-length=0 -fdebug-prefix-map=/tmp/go-build850799746=/tmp/go-build -gno-record-gcc-switches",
 	"GOHOSTARCH": "amd64",
 	"GOHOSTOS": "linux",
 	"GOMOD": "/home/aayd/Code/tutorials/golang-cli-playbook/go.mod",
