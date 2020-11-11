@@ -15,4 +15,3 @@ func GetExampleDotCom() {
 
 	defer resp.Body.Close()
 }
-
